@@ -1,0 +1,3 @@
+# Exploratory Data Analysis on CarDekho dataset
+The analysis aims to explore a dataset of used cars from Car Dekho to uncover insights about the factors influencing their selling prices. Understanding the dynamics of the used car market is crucial for both buyers and sellers to make informed decisions. By examining various attributes such as car model, year of manufacture, kilometers driven, and other features, this exploratory data analysis will identify key patterns and trends. The findings from this analysis will provide valuable information that can help stakeholders navigate the used car market more effectively, ensuring better pricing strategies and more informed purchasing decisions.
+
